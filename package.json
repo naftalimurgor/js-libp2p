@@ -168,7 +168,7 @@
     "@libp2p/interop": "^1.0.0",
     "@libp2p/kad-dht": "^1.0.3",
     "@libp2p/mdns": "^1.0.3",
-    "@libp2p/mplex": "^1.0.1",
+    "@libp2p/mplex": "^3.0.0",
     "@libp2p/tcp": "^1.0.6",
     "@libp2p/tracked-map": "^1.0.4",
     "@libp2p/webrtc-star": "^1.0.3",
